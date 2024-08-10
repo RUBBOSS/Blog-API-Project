@@ -21,7 +21,7 @@ This project is a simple blog application built using Express.js, EJS, and Axios
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blog-api-project.git
+   git clone https://github.com/RUBBOSS/blog-api-project.git
    cd blog-api-project
 
 2. Install dependencies:
